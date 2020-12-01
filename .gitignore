@@ -1,3 +1,10 @@
+# data folders, if placed in the repository folder
+cover_data
+figs
+
+# paths variables are to be ignored! only the config matters
+cover_recognition/paths.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

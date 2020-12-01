@@ -1,0 +1,4 @@
+# although this should run on all modern OpenCV versions,
+# I'll still leave my own version for the reference
+# opencv-python==4.4.0.44
+opencv-python
